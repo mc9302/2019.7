@@ -7,6 +7,13 @@
     <title>Document</title>
 </head>
 <body>
-ÔõÃ´Ñù
+
 </body>
 </html>
+<script>
+let i=9;
+  if(true){
+      console.log(i)
+      let i=4;
+  }
+</script>
